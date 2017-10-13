@@ -71,10 +71,11 @@ or  at  internet.
 SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  Jdollar  p.l   to  publish   the  webpages.
 
 
+eg)  CHDollar, JDollar(JWEB)   are  the  examples..
 
 
 b)  JX-MEM RemoteWebapplication
-   ==============================
+
 
 
 It  is  the   remotewebapplication   using  Vast  Memory  management  
@@ -89,7 +90,7 @@ eg)  J$MEM ,  J$WEBMEM  are  the  examples...
 
 
 c)  AX- Remote WebApplication
-   =============================
+ 
 
 
 
@@ -100,17 +101,18 @@ Tabernacle , SLING, J$SAUCER ,etc   are   the  examples
 
 
 d)  MX -Remote Webapplication
-    ==========================
+ 
 
 
 It  is   the  RemoteWebapplication  using  machine learning  concepts
 
-
 eg) OAKJAVA7
 
 
+
+
 e)  AMX-  Remote Webapplication
-    ===========================
+   
 
 
 It  is   the  RemoteWebapplication  using  Automation  and  with  Big data concepts.
