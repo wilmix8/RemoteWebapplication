@@ -16,6 +16,10 @@ So  RemoteWebapplication   is  permitted  only   for    writ  Technologies  like
  So   RemoteWebapplication   is  not   permitted to  be  used  by  other  new  programming  Languages.
 
  Remotewebapplication   is  advanced  even  than  Android,etc.
+ 
+ Remotewebapplication  is  up  to   7  divisions  ie)  from   Type-0 Remotewebapplication to  Type-6  Remotewebapplication..
+ 
+ 
 
 ================================================================================================
   
