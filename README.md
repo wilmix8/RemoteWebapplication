@@ -5,8 +5,17 @@
  
  and  technology  advancedment.
  
+ RemoteWebapplication    concept    is   first   invented  by  wilmix  jemin  j   at  year  2015.
  
+So  RemoteWebapplication   is  permitted  only   for    writ  Technologies  like   
  
+ GDollar,JSTAR,CHDOLLAR, JDollar(JWEB),DOTWEB3.0,DOTWEB7.0 ,JAS,etc.
+ 
+ But  not  focused  for    Other  technologies  like  java  ,etc.
+ 
+ So   RemoteWebapplication   is  not   permitted to  be  used  by  other  new  programming  Languages.
+
+ Remotewebapplication   is  advanced  even  than  Android,etc.
 
 ================================================================================================
   
@@ -18,7 +27,7 @@
 Definition:
 =============
 
-  "Remote  webserver  application    is defiened  as  an  application    operates    with
+  "Remote  webserver  application    is defined  as  an  application    operates    with
   client-server.but  it  will  post  and  get  objects   from  server that  can  be
   
   exchanged through out  sessions  or  with  in   two   computers  ;  where   as   one  act   as  client
@@ -81,7 +90,7 @@ b)  JX-MEM RemoteWebapplication
 It  is  the   remotewebapplication   using  Vast  Memory  management  
 
 
-using  JDollar(JWEB)  Technology...
+using  DOTWEB3.0  Technology...
 
 
 eg)  J$MEM ,  J$WEBMEM  are  the  examples...
