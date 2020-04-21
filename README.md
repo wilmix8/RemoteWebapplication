@@ -142,6 +142,6 @@ This  is nothing but creating remotemobileapp  in  mobiles.
 
 This  is  another type  of  remote webapplication.
 
-eg) J@ 
+eg) JAW with Module  J@ 
 
 
