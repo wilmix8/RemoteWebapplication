@@ -134,3 +134,14 @@ It  is   the  RemoteWebapplication  using  Automation  and  with  Big data conce
 
 eg) DOTWEB2.0
 
+
+f) Remote Web app
+===================
+
+This  is nothing  creating remotemobileapp  in  mobiles.
+
+This  is  another type  of  remote webapplication.
+
+eg) J@ 
+
+
