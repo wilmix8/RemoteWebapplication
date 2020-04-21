@@ -145,3 +145,9 @@ This  is  another type  of  remote webapplication.
 eg) JAW with Module  J@ 
 
 
+g) JProxy Remote Web application
+=================================
+
+it  is meant for accessing webpages without internet with emulator or wallet or mobiles.
+
+eg) JDollar with JProxy
