@@ -138,7 +138,7 @@ eg) DOTWEB2.0
 f) Remote Web app
 ===================
 
-This  is nothing  creating remotemobileapp  in  mobiles.
+This  is nothing but creating remotemobileapp  in  mobiles.
 
 This  is  another type  of  remote webapplication.
 
