@@ -38,54 +38,7 @@ Definition:
   
   and  other  act   as   server" 
 
-
-  
-  eg)  When  you enter   details  using  CH$  program  that   creates   a   data  object
-  
-  called  as .dsn  file;  that can  be  exchanged  through  out   sessions.
-
-  
-  Difference  between   webserver  and  remoteserver  means   remotserver  
-
-has   remote-client  connection  but  webserver don't have.
-
-
-Data flow  is  unknown   using  J$  architecture with  J$AGENT in  VS-OS.  where   as  in   
-
-webserver  and  application server  like  tomcat,JSTAR SERVER,Jboss server,  etc;  here  dataflow  is  known.
-
-JSTAR  webserver   is used   only   for  webdesign  so   we  don't  focus   remoteserver.
-
-In webserver  data  will   be   sent  between  client(browser)  and  server
-
-is  known  to users.
-
-so  this   indicates   webserver   has  no  security  but  remoteserver  using  J$  architecture
-
-has  more   security  according  to  research.
-
-Remoteserver   uses http +  socket  connection    where   as webserver uses   only  http  connection
-
-Remote web  application server  =>  webserver  +  Applicationserver +  datasecurity.
-
-
-
-So J$ is  most  advanced in  security   side. but  it  has  more  framework  and  latest technology
-
-and  follows  shortest  code    than  any  technology and  including  advanced  business and  many  advantages
-
-over  other  technologies. When  you  host   Jdollar  or  Chdollar  Servers   in  any  of  your   today
-
-available   hosting   provider.  You   can   see  Jdollar  or   Chdollar   website   at  your  mobile phone
-
-or  at  internet.
-
-
-SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  Jdollar  p.l   to  publish   the  webpages.
-
-
-eg)  CHDollar, JDollar(JWEB)   are  the  examples..
-
+Note:  The  information  for  remote webaplication is confidental.
 
 b)  JX-MEM RemoteWebapplication
 
