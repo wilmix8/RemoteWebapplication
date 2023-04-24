@@ -11,7 +11,7 @@ So  RemoteWebapplication   is  permitted  only   for    writ  Technologies  like
  
  GDollar,JSTAR,CHDOLLAR, JDollar(JWEB),DOTWEB3.0,DOTWEB7.0 ,JAS,etc.
  
- But  not  focused  for    Other  technologies  like  java  ,etc.
+ But  not  focused  for    Other  technologies  like  python ,etc.
  
  So   RemoteWebapplication   is  not   permitted to  be  used  by  other  new  programming  Languages.
 
@@ -70,9 +70,9 @@ d)  MX -Remote Webapplication
  
 
 
-It  is   the  RemoteWebapplication  using  machine learning  concepts
+It  is   the  RemoteWebapplication  using  ????  concepts
 
-eg) OAKJAVA7
+eg) ???? (This programming language  will be  introduced later)
 
 
 
